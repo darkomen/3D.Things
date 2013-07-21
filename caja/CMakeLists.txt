@@ -1,4 +1,4 @@
- #Minimum version required for CMake
+#Minimum version required for CMake
 cmake_minimum_required (VERSION 2.6)
  
 #Name of the project
@@ -7,6 +7,8 @@ project (OOML_THINGS)
 #Compile in Debug Mode. Allows to make debug.
 SET(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -g -ggdb")
 SET(CMAKE_BUILD_TYPE "debugfull" )
+SET(CMAKE_C_COMPILER "clang")
+SET(CMAKE_MAKE_PROGRAM "/usr/bin/make")
  
 #Set a variable with the directory path.
 SET(OOM_TRUNK_DIR ${CMAKE_CURRENT_SOURCE_DIR})

@@ -13,7 +13,7 @@ int main()
     IndentWriter writer;
     writer << a;
  
-	ofstream file("boxi.scad");
+	ofstream file("box.scad");
 	if (file){
 		//generate OpenScad code of the translated cube and save it into file;
 		file << writer;

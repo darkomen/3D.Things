@@ -1,0 +1,8 @@
+*.cmake
+*.stl
+*.scad
+.DS_Store/
+bin/
+CMakeFiles/
+Makefile
+CMakeCache.txt

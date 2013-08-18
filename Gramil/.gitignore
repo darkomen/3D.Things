@@ -1,6 +1,4 @@
 *.cmake
-*.stl
-*.scad
 .DS_Store/
 bin/
 CMakeFiles/

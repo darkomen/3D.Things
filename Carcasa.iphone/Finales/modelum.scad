@@ -4,7 +4,7 @@ import("../Carcasa/iPhone.stl");
 
 module nombre(){
 rotate([180,0,90])
-scale([1.0,1.0,0])
+scale([1.0,1.0,1])
 import("../Nombres/modelum.stl");
 }
 module agujero(){

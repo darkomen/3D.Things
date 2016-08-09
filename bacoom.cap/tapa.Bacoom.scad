@@ -6,5 +6,4 @@ rotate([0,180,0])
 difference(){
 	cylinder(r=radio_ext,h=longitud,$fn=100);
 	cylinder(r=(radio_ext-ancho),h=(longitud-tapa));
-
 }

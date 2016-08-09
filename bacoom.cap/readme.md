@@ -1,4 +1,5 @@
-# Baccom cap
+# Bacoom cap
+<img src="tapa.baccom.png" width="200" align = "center">
 
 # License
 <img src="../by-sa.png" width="200" align = "center">

@@ -1,1 +1,0 @@
-Component removedPart1 = RoundedTablet(15,6,6,3,true,true,true,true,6,false);

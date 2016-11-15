@@ -16,8 +16,9 @@ In this repository I will upload all the things I have designed.
 * [Sav holder](https://github.com/darkomen/3D.Things/tree/master/sav.holder)
 * [SD prusa I3](https://github.com/darkomen/3D.Things/tree/master/sd.prusai3)
 * [thegeekhouse](https://github.com/darkomen/3D.Things/tree/master/thegeekhouse)
-* [Z endstop](* [White box](https://github.com/darkomen/3D.Things/tree/master/zendstop))
+
 * [White box](https://github.com/darkomen/3D.Things/tree/master/white.box)
+* [Z endstop](https://github.com/darkomen/3D.Things/tree/master/zendstop)
 
 # Software used
 I have used diferentes design program such as:

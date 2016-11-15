@@ -1,5 +1,5 @@
-# Bemoo moneybox
-<img src="bemoo.moneybox.png" width="200" align = "center">
+# Moneybox
+<img src="moneybox.png" width="200" align = "center">
 
 # Files
 * IPT: Source files.

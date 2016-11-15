@@ -1,5 +1,5 @@
 # Lin Kuei
-<img src="lin.kuey.png" width="200" align = "center">
+<img src="lin.kuei.png" width="200" align = "center">
 
 # Files
 * Images: Files with the design of a Lin Kuei

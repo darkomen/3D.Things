@@ -1,11 +1,11 @@
-# Bacoom cap
-<img src="bacoom.cap.png" width="200" align = "center">
+# SAV Holder
+<img src="sav.holder.png" width="200" align = "center">
 
 # Designed with
 This file have designed with OpenScad 2015.03.
 
 # Designed by
-This file have designed by Santiago López.
+This file have designed by F.Malpartida, and have modificated by Santiago López.
 # License
 <img src="../by-sa.png" width="200" align = "center">
 

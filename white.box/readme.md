@@ -1,11 +1,16 @@
-# Bacoom cap
-<img src="bacoom.cap.png" width="200" align = "center">
+# White box
+<img src="shelf.png" width="200" align = "center">
+
+# Files
+* f3d: Source files
+* STL: Stl files ready to print
+* STP: Step files for imported in any design program
 
 # Designed with
-This file have designed with OpenScad 2015.03.
-
+This file have designed with Autodesk Fusion360 2.0.2535 Student version.
 # Designed by
 This file have designed by Santiago López.
+
 # License
 <img src="../by-sa.png" width="200" align = "center">
 

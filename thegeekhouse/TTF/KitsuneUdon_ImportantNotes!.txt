@@ -1,0 +1,21 @@
+// Kitsune Udon, © 2014 Rory Harnden
+
+// rrry.me | r@rrry.me
+
+This typeface requires OpenType standard ligatures to be enabled. Most programs will enable them by default, though do check if things look strange.
+
+To make Kitsune Udon work properly in Microsoft Word, please see this page on how to enable ligatures:
+
+	http://office.microsoft.com/en-001/mac-word-help/turn-on-ligatures-or-joined-characters-HA102928668.aspx
+
+Adobe Illustrator:
+
+	http://help.adobe.com/en_US/illustrator/cs/using/WS714a382cdf7d304e7e07d0100196cbc5f-63bea.html#WS714a382cdf7d304e7e07d0100196cbc5f-63b1a
+
+Adobe InDesign:
+
+	http://helpx.adobe.com/indesign/using/formatting-characters.html#apply_ligatures_to_letter_pairs
+
+Adobe Photoshop:
+
+	http://helpx.adobe.com/photoshop/using/fonts.html#apply_opentype_features

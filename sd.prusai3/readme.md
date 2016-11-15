@@ -1,11 +1,15 @@
-# Bacoom cap
-<img src="bacoom.cap.png" width="200" align = "center">
+# Sd Prusa I3
+<img src="sd.prusai3.png" width="200" align = "center">
+
+# Files
+* Images: Files with the design of a Lin Kuei.
 
 # Designed with
-This file have designed with OpenScad 2015.03.
+This file have designed with Autodesk Inventor 2015 Student version.
 
 # Designed by
 This file have designed by Santiago López.
+
 # License
 <img src="../by-sa.png" width="200" align = "center">
 

@@ -1,8 +1,13 @@
-# Bacoom cap
-<img src="bacoom.cap.png" width="200" align = "center">
+# Bemoo moneybox
+<img src="bemoo.moneybox.png" width="200" align = "center">
+
+# Files
+* IPT: Source files.
+* STL: Stl files ready to print.
+* STP: Step files for imported in any design program.
 
 # Designed with
-This file have designed with OpenScad 2015.03.
+This file have designed with Autodesk Inventor 2015 Student version.
 
 # Designed by
 This file have designed by Santiago López.

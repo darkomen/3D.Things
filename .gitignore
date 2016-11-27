@@ -9,3 +9,4 @@ ehthumbs.db
 Thumbs.db
 lockfile.lck
 proximus/
+*.gcode

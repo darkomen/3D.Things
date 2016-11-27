@@ -1,4 +1,5 @@
 # Christmas Tree
+<img src="christmas.tree.JPG" width="200" align = "center">
 
 # Files
 * f3d: Source files

@@ -2,7 +2,9 @@
 <img src="sd.prusai3.png" width="200" align = "center">
 
 # Files
-* Images: Files with the design of a Lin Kuei.
+* IPT: Source files
+* STL: Stl files ready to print
+* STP: Step files for import in any design program
 
 # Designed with
 This file have designed with Autodesk Inventor 2015 Student version.

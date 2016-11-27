@@ -4,7 +4,7 @@
 # Files
 * Sources: Source files of the design.
 * STL: Stl files ready to print.
-* STP: Step files for imported in any design program.
+* STP: Step files for import in any design program.
 * TTF: Font have used in the design.
 
 # Designed with

@@ -4,7 +4,7 @@
 # Files
 * f3d: Source files
 * STL: Stl files ready to print
-* STP: Step files for imported in any design program
+* STP: Step files for import in any design program
 
 # Designed with
 This file have designed with Autodesk Fusion360 2.0.2535 Student version.

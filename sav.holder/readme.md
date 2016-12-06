@@ -1,11 +1,17 @@
 # SAV Holder
 <img src="sav.holder.png" width="200" align = "center">
 
+# Files
+* F3D, Scad: Source files
+* STL: Stl files ready to print
+* STP: Step files for import in any design program
+
 # Designed with
-This file have designed with OpenScad 2015.03.
+This file have been designed with OpenScad 2015.03.
 
 # Designed by
-This file have designed by F.Malpartida, and have modificated by Santiago López.
+This file have been designed by F.Malpartida, and have been modificated by Santiago López.
+
 # License
 <img src="../by-sa.png" width="200" align = "center">
 

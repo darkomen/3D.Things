@@ -1,5 +1,5 @@
 # Videoconsole
-<img src="thegeekhouse.png" width="200" align = "center">
+<img src="box.png" width="200" align = "center">
 
 # Files
 * Sources: Source files of the design.

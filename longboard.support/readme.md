@@ -7,9 +7,10 @@
 * STP: Step files for import in any design program
 
 # Designed with
-This file have designed with Autodesk Fusion360 2.0.2535 Student version.
+This file have been designed with Autodesk Fusion360 2.0.2535 Student version.
+
 # Designed by
-This file have designed by Santiago López.
+This file have been designed by Santiago López.
 
 # License
 <img src="../by-sa.png" width="200" align = "center">

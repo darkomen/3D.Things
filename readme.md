@@ -21,6 +21,7 @@ In this repository I will upload all the things I have designed.
 * [Ruler](https://github.com/darkomen/3D.Things/tree/master/ruler)
 * [Sav holder](https://github.com/darkomen/3D.Things/tree/master/sav.holder)
 * [SD prusa I3](https://github.com/darkomen/3D.Things/tree/master/sd.prusai3)
+* [Tool tray](https://github.com/darkomen/3D.Things/tree/master/tool.tray)
 * [Tray with magnets](https://github.com/darkomen/3D.Things/tree/master/tray)
 * [thegeekhouse](https://github.com/darkomen/3D.Things/tree/master/thegeekhouse)
 * [Tool box](https://github.com/darkomen/3D.Things/tree/master/tool.box)
